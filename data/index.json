@@ -150,30 +150,30 @@
         {
             "name": "Message believers Circle",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
         },
         {
             "name": "BMI Calculator",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
         },
         {
             "name": "JS E-Commerce",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
         },
         {
-            "name": "JS E-Commerce",
+            "name": "Calculator",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
         }
     ]
 }
