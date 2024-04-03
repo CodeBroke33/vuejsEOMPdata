@@ -134,8 +134,8 @@
     ],
     "projects":[
         {
-            "name": "Full Stack E-Commerce",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "name": "Full Stack Captone",
+            "description": " Node.js, Vue.js, Express.js, HTML, CSS, Javascript and My SQL",
             "image": "https://i.ibb.co/7vKtDyf/Screenshot-2024-03-26-153029.png",
             "gitHub": "https://github.com/CodeBroke33/FeeqahStore",
             "netlify": "https://capstone-3bd1a.web.app/home"
@@ -150,9 +150,9 @@
         {
             "name": " Full Stack E-Commerce",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "",
-            "gitHub": "",
-            "netlify": ""
+            "image": "https://i.ibb.co/qks1LSf/Screenshot-2024-04-03-120605.png",
+            "gitHub": "https://github.com/CodeBroke33/nodejsEOMP.git",
+            "netlify": "https://nodejseomp-8da3d.web.app/"
         },
         {
             "name": "BMI Calculator",
