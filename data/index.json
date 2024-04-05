@@ -141,11 +141,11 @@
             "netlify": "https://capstone-3bd1a.web.app/home"
         },
         {
-            "name": "Calculator",
+            "name": "BMI Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3 and Javascript. In order to validate my input element, I make use of regular expressions.",
-            "image": "",
-            "gitHub": "",
-            "netlify": ""
+            "image": "https://i.ibb.co/y8LXV6z/Screenshot-2024-04-05-091159.png",
+            "gitHub": "https://github.com/CodeBroke33/JSBMIcalculator.git",
+            "netlify": "https://codebroke33.github.io/JSBMIcalculator/"
         },
         {
             "name": " Full Stack E-Commerce",
@@ -155,7 +155,7 @@
             "netlify": "https://nodejseomp-8da3d.web.app/"
         },
         {
-            "name": "BMI Calculator",
+            "name": "Calculator",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
             "image": "",
             "gitHub": "",
