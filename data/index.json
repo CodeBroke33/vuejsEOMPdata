@@ -162,15 +162,15 @@
             "netlify": "https://codebroke33.github.io/JSBMIcalculator/"
         },
         {
-            "name": "MobiCare Clone",
+            "name": "My Keybaord",
             "description": "I build this in my early learning stages where i was learning code ind i did this simply to test my newly acquired skills.",
             "image": "https://i.ibb.co/CV8YW7T/Screenshot-2024-04-05-113932.png",
-            "gitHub": "https://github.com/CodeBroke33/myCalculator.git",
-            "netlify": "https://codebroke33.github.io/myCalculator/"
+            "gitHub": "https://github.com/CodeBroke33/keyBoard.git",
+            "netlify": "https://codebroke33.github.io/keyBoard/"
         },
         {
             "name": "Calculator",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "description": "I built this using HTML 5, CSS, Bootstrap, and Javascript. Also built in my bigginer days.",
             "image": "https://i.ibb.co/CV8YW7T/Screenshot-2024-04-05-113932.png",
             "gitHub": "https://github.com/CodeBroke33/myCalculator.git",
             "netlify": "https://codebroke33.github.io/myCalculator/"
