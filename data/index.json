@@ -134,18 +134,18 @@
     ],
     "projects":[
         {
-            "name": "Full Stack Captone",
+            "name": "Full Stack Ecommerce",
             "description": " Node.js, Vue.js, Express.js, HTML, CSS, Javascript and My SQL",
             "image": "https://i.ibb.co/7vKtDyf/Screenshot-2024-03-26-153029.png",
             "gitHub": "https://github.com/CodeBroke33/FeeqahStore",
             "netlify": "https://capstone-3bd1a.web.app/home"
         },
         {
-            "name": "BMI Calculator",
+            "name": "SK∞Infinatetely.com Ecommerce",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3 and Javascript. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.ibb.co/y8LXV6z/Screenshot-2024-04-05-091159.png",
-            "gitHub": "https://github.com/CodeBroke33/JSBMIcalculator.git",
-            "netlify": "https://codebroke33.github.io/JSBMIcalculator/"
+            "image": "https://i.ibb.co/ZVkCKyP/Screenshot-2024-04-05-111837.png",
+            "gitHub": "https://github.com/CodeBroke33/jsEOMP.git",
+            "netlify": "https://codebroke33skinfinately.netlify.app/"
         },
         {
             "name": " Full Stack E-Commerce",
@@ -155,14 +155,14 @@
             "netlify": "https://nodejseomp-8da3d.web.app/"
         },
         {
-            "name": "Calculator",
+            "name": "BMI Calculator",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "",
-            "gitHub": "",
-            "netlify": ""
+            "image": "https://i.ibb.co/y8LXV6z/Screenshot-2024-04-05-091159.png",
+            "gitHub": "https://github.com/CodeBroke33/JSBMIcalculator.git",
+            "netlify": "https://codebroke33.github.io/JSBMIcalculator/"
         },
         {
-            "name": "JS E-Commerce",
+            "name": "Calculator",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
             "image": "",
             "gitHub": "",
