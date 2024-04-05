@@ -135,7 +135,7 @@
     "projects":[
         {
             "name": "Full Stack Ecommerce",
-            "description": " Node.js, Vue.js, Express.js, HTML, CSS, Javascript and My SQL",
+            "description": "For this project I utilized Node.js, Vue.js, Express.js, HTML, CSS, Javascript and My SQL in order to gain experience in building a full scale site on my own",
             "image": "https://i.ibb.co/7vKtDyf/Screenshot-2024-03-26-153029.png",
             "gitHub": "https://github.com/CodeBroke33/FeeqahStore",
             "netlify": "https://capstone-3bd1a.web.app/home"
@@ -149,7 +149,7 @@
         },
         {
             "name": " Full Stack E-Commerce",
-            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
+            "description": "This is an application I built selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens. This was a partnered effort",
             "image": "https://i.ibb.co/qks1LSf/Screenshot-2024-04-03-120605.png",
             "gitHub": "https://github.com/CodeBroke33/nodejsEOMP.git",
             "netlify": "https://nodejseomp-8da3d.web.app/"
